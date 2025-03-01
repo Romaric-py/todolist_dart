@@ -16,7 +16,7 @@ A command-line task management application developed in **Dart**.
 1. **Clone the project**  
    ```bash
    git clone https://github.com/Romaric-py/todolist_dart.git
-   cd todolist-dart
+   cd todolist_dart
    ```
 
 2. **Install Dart (if not already installed)**  
